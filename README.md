@@ -1,4 +1,4 @@
-# 4️⃣ Digit Recognizer Project
+# 4️⃣ Digit Recognizer
 
 ## 📌 Overview
 
